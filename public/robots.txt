@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://orbitr-canary-nextjs-20260228.pages.dev/sitemap.xml
